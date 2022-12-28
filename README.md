@@ -3,9 +3,9 @@
 ## I am beginner Software Engineer, boardgamer, ping-pong gamer and music producer
 
 ## My CV
-[Link to CV](https://drive.google.com/file/d/1bJ1GBELh8hqWSoMcdl6969fRZx0VCNEy/view?usp=share_link)
+[Link](https://drive.google.com/file/d/1bJ1GBELh8hqWSoMcdl6969fRZx0VCNEy/view?usp=share_link)
 
-Tools
+## Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat-square&logo=figma&logoColor=EA4C1D)
 ![Notion](https://img.shields.io/badge/-Notion-090909?style=flat-square&logo=Notion)
@@ -20,4 +20,6 @@ Tools
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=style=flat-square&logo=AndroidStudio&logoColor=006EC0)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=006EC0)](https://t.me/i_milyukov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=006EC0)](https://t.me/i_milyukov)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=il-milyukov&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
