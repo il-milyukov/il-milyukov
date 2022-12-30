@@ -19,6 +19,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=flat-square&logo=GitHub)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=style=flat-square&logo=AndroidStudio&logoColor=006EC0)
 
+## Testing documentation
+- Test-Suites (указывать отдельным репозиторием)
+- Checklists
+- Bug-Reports
+- Postman collections
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=006EC0)](https://t.me/i_milyukov)
 
