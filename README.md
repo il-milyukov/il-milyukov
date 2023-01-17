@@ -30,7 +30,7 @@
 
 [Postman collections](https://github.com/il-milyukov/Postman_collections)
 
-## Follow me
+## Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=006EC0)](https://t.me/i_milyukov)
 
-[![Anurag's GitHub stats](https://https://il-milyukov.vercel.app//api?username=il-milyukov&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app//api?username=il-milyukov&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
