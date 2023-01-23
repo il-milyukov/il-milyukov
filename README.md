@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=flat-square&logo=GitHub)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=style=flat-square&logo=AndroidStudio&logoColor=006EC0)
 
-## Testing documentation
+## Testing documentation (in progress)
 [Mind maps](https://github.com/il-milyukov/Mind_maps)
 
 [Test-Suites](https://github.com/il-milyukov/Test-Suites)
