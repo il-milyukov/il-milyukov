@@ -20,13 +20,13 @@
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=style=flat-square&logo=AndroidStudio&logoColor=006EC0)
 
 ## Testing documentation (in progress)
-[Mind maps](https://github.com/il-milyukov/Mind_maps)
+[Mind maps/Flowcharts](https://github.com/il-milyukov/Mind_maps)
 
-[Test-Suites](https://github.com/il-milyukov/Test-Suites)
+[Test suites](https://github.com/il-milyukov/Test-Suites)
 
 [Checklists](https://github.com/il-milyukov/Checklists)
 
-[Bug-Reports](https://github.com/il-milyukov/Bug-Reports)
+[Bug-reports](https://github.com/il-milyukov/Bug-Reports)
 
 [Postman collections](https://github.com/il-milyukov/Postman_collections)
 
