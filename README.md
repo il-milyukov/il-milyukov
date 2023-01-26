@@ -3,7 +3,7 @@
 ## I am beginner Software Engineer, boardgamer, ping-pong gamer and music producer
 
 ## My CV
-[Link](https://drive.google.com/file/d/1bJ1GBELh8hqWSoMcdl6969fRZx0VCNEy/view?usp=share_link)
+[Link](https://drive.google.com/file/d/1Bx7ombj7FPRPk04_diZB5eXESitRfqY9/view?usp=share_link)
 
 ## Tools
 
